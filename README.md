@@ -1,8 +1,6 @@
-# project-euler-solutions
-Repository for my Project Euler challenge solutions, implemented in C#, Python and Golang.
 # Project Euler Solutions
 
-This repository contains my solutions to Project Euler challenges, implemented in C#, Python, and optionally Golang.
+This repository contains my solutions to Project Euler challenges, implemented in C#, Python, and Golang.
 
 ## About Project Euler
 [Project Euler](https://projecteuler.net/) presents mathematical and programming problems designed to be solved with computer programs. While mathematical insights are valuable, programming skills are essential for most challenges.
