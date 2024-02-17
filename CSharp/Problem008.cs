@@ -1,6 +1,6 @@
 namespace ProjectEuler
 {
-    internal class Problem007
+    internal class Problem008
     {
 
         static void Main(string[] args)
